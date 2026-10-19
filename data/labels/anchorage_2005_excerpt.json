@@ -1,0 +1,49 @@
+{
+  "source_url": "https://apps.asdk12.org/School_Board/archives/Arc2004-2005/Agendas/20050509/J02M273.pdf",
+  "_notes": "Excerpt regrouped from a 13-page PDF: a summary page followed by detail pages, so each change order must be linked across pages. 'description' is not scored (the document has line items, not one summary sentence). Schedule impact is not stated anywhere, so it is labeled null. new_contract_sum is the 'Total' contract amount on the summary table.",
+  "change_orders": [
+    {
+      "change_order_number": "4",
+      "date": "2005-03-08",
+      "project_name": "Birchwood ES Misc. Upgrades",
+      "contractor": "Wolverine Supply Inc.",
+      "cost_change": 16690.91,
+      "schedule_impact_days": null,
+      "requested_by": null,
+      "approved_by": null,
+      "status": null,
+      "original_contract_sum": 1631830.00,
+      "contract_sum_before_change": null,
+      "new_contract_sum": 1808617.98
+    },
+    {
+      "change_order_number": "3",
+      "date": "2005-02-03",
+      "project_name": "Airport Heights ES HVAC Upgrades Phase 1",
+      "contractor": "Christensen Builders",
+      "cost_change": -4000.00,
+      "schedule_impact_days": null,
+      "requested_by": null,
+      "approved_by": null,
+      "status": null,
+      "original_contract_sum": 676902.00,
+      "contract_sum_before_change": null,
+      "new_contract_sum": 747362.43
+    },
+    {
+      "_note": "Labeled 'Contract Modification No.: 4' in the source (not 'Change Order').",
+      "change_order_number": "4",
+      "date": "2005-02-07",
+      "project_name": "Turnagain ES Restroom Remodel",
+      "contractor": "F & F Construction",
+      "cost_change": -12136.90,
+      "schedule_impact_days": null,
+      "requested_by": null,
+      "approved_by": null,
+      "status": null,
+      "original_contract_sum": 200000.00,
+      "contract_sum_before_change": null,
+      "new_contract_sum": 225496.37
+    }
+  ]
+}

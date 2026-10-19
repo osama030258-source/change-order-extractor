@@ -1,0 +1,36 @@
+{
+  "source_url": "https://cityofglenwood.org/wp-content/uploads/2024/12/05.15.2025-Special-Meeting-Packet.pdf",
+  "_notes": "Labels written by reading the text of CO #5R and CO #9. Re-check against the original PDF. contract_sum_before_change is null because the form's 'net change by previously authorized Change Orders' line is not clearly a 'contract sum before' figure.",
+  "change_orders": [
+    {
+      "change_order_number": "5R",
+      "date": "2025-05-13",
+      "project_name": "Glenwood Facades Phase 1",
+      "contractor": "Cornerstone Commercial Contractors",
+      "description": "Remove and replace deteriorated brick with close matching brick at 424 (PR #5R)",
+      "cost_change": 2310.00,
+      "schedule_impact_days": 0,
+      "requested_by": "Cornerstone Commercial Contractors",
+      "approved_by": null,
+      "status": null,
+      "original_contract_sum": 815550.00,
+      "contract_sum_before_change": null,
+      "new_contract_sum": 826669.50
+    },
+    {
+      "change_order_number": "9",
+      "date": "2025-05-12",
+      "project_name": "Glenwood Facades Phase 1",
+      "contractor": "Cornerstone Commercial Contractors",
+      "description": "Remove electrical from the 409 Sharp St. project (PR #9)",
+      "cost_change": 0.00,
+      "schedule_impact_days": 0,
+      "requested_by": "Cornerstone Commercial Contractors",
+      "approved_by": null,
+      "status": null,
+      "original_contract_sum": 815550.00,
+      "contract_sum_before_change": null,
+      "new_contract_sum": 826669.50
+    }
+  ]
+}

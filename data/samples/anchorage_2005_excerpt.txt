@@ -1,0 +1,99 @@
+[[PAGE 1]]
+(Attachment E)
+School: Birchwood ES Misc. Upgrades Change Order No.: 4
+Contractor: Wolverine Supply Inc. Date: March 8, 2005
+Architect: Arctic Sun Engineering, Inc. Contract No.: 4C00328
+Totals A B C D
+Original Contract $1,631,830.00
+Current Contract Modification $16,690.91 $15,006.17 $1,684.74
+Prior Contract Modifications $160,097.07 $75,297.48 $21,563.92 $63,235.67
+Total $1,808,617.98 $75,297.48 $36,570.09 $64,920.41 $0.00
+Remaining Contingency $5,000.00
+% Change 10.83% 4.61% 2.24% 3.98% 0.00%
+Contract Modifications exceed 10%
+(Attachment F)
+School: Airport Heights ES HVAC Upgrades Phase 1 Change Order No.: 3
+Contractor: Christensen Builders Date: February 3, 2005
+Architect: Uni Group Engineers Contract No.: 4C00332
+Totals A B C D
+Original Contract $676,902.00
+Current Contract Modification ($4,000.00) ($4,000.00)
+Prior Contract Modifications $74,460.43 $30,993.69 $43,466.74
+Total $747,362.43 $30,993.69 $43,466.74 ($4,000.00) $0.00
+Remaining Contingency $0.00
+% Change 10.41% 4.58% 6.42% -0.59% 0.00%
+*Contract Complete, Contract Modifications exceed 10%
+A - Hidden Conditions
+B - Corrective Action Required
+C - Owner Requested Changes Within Scope
+D - Change of Scope Page 2 of 13
+(Attachment H)
+School: Turnagain ES Restroom Remodel Contract Modification No.: 4
+Contractor: F & F Construction Date: February 7, 2005
+Architect: Architects Alaska Contract No.: 4C00353
+Totals A B C D
+Original Contract $200,000.00
+Current Contract Modification ($12,136.90) ($12,136.90)
+Prior Contract Modifications $37,633.27 $15,854.50 $11,886.00 $9,892.77
+Total $225,496.37 $15,854.50 $11,886.00 ($2,244.13) $0.00
+Remaining Contingency $20,046.80
+% Change 12.75% 7.93% 5.94% -1.12% 0.00%
+Contract Modifications exceed 10%
+A - Hidden Conditions
+B - Corrective Action Required
+C - Owner Requested Changes Within Scope
+D - Change of Scope Page 3 of 13
+
+[[PAGE 2]]
+(Attachment E)
+Project: Birchwood ES Misc. Upgrades Date: March 8, 2005
+Contractor Wolverine Supply Inc. Contract No.: 4C00328
+Change Order No.: 4
+DESCRIPTION OF CHANGE
+RFP Number Type Description Cost
+18 B Corrective modification - mechanical AHU 4, 5, 6 access. $1,684.74
+29 A Patch holes and paint wall in library where shelves were
+relocated. $524.11
+30 A Install zone valves and associated controls to all entry heaters per
+the information bulletin. $1,726.38
+31 A Install linoleum flooring and paint in storage room that use to
+have a air handler in office area. $1,690.69
+32 A Install ceiling grid and tile in janitor's closet by office. $244.58
+33 A Repair electrical devices damaged by janitorial staff. $1,181.94
+34 A Replaced undersized battery box - F/A. $2,025.54
+35 A Install new exit sign. $790.52
+36 A Upgrade software for fire alarm. $1,575.42
+37 A Sheetrock repair in mechanical room and around roof access, and
+install classroom door stops. $722.90
+38 A Move conduits for duct work in various locations around school.
+$2,096.20
+39 A Additional wiring for new Siemens controls. $2,427.89
+TOTAL COST THIS CHANGE ORDER $16,690.91
+A - Hidden Conditions
+B - Corrective Action Required
+C - Owner Requested Changes Within Scope
+D - Change of Scope Page 9 of 13
+(Attachment F)
+Project: Airport Heights ES HVAC Upgrades Phase 1 Date: February 3, 2005
+Contractor Christensen Builders Contract No.: 4C00332
+Change Order No.: 3
+DESCRIPTION OF CHANGE
+RFP Number Type Description Cost
+20 C Lost Keys. -$4,000.00
+TOTAL COST THIS CHANGE ORDER ($4,000.00)
+A - Hidden Conditions
+B - Corrective Action Required
+C - Owner Requested Changes Within Scope
+D - Change of Scope Page 10 of 13
+(Attachment H)
+Project: Turnagain ES Restroom Remodel Date: February 7, 2005
+Contractor F & F Construction Contract No.: 4C00353
+Contract Modification No.: 4
+DESCRIPTION OF CHANGE
+RFP Number Type Description Cost
+17 C Deduct maintenance related work from contract. -$12,136.90
+TOTAL COST THIS CHANGE ORDER ($12,136.90)
+A - Hidden Conditions
+B - Corrective Action Required
+C - Owner Requested Changes Within Scope
+D - Change of Scope Page 12 of 13

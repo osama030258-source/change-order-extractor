@@ -1,0 +1,21 @@
+{
+  "source_url": "https://lfportal.everettwa.gov/WebLink/0/doc/684252/Page23.aspx",
+  "_notes": "Noisy OCR page (page 2 of 3 of the change order). Most fields are genuinely absent, so null labels test hallucination. The 'Date: 213/69' style noise near the signature block is illegible handwriting, not a value.",
+  "change_orders": [
+    {
+      "change_order_number": "3",
+      "date": "2009-01-22",
+      "project_name": "WFP Clearwell No. 2",
+      "contractor": null,
+      "description": "Adds Bid Item #6 (Change Order #3); scope of work changed as described in Exhibit A",
+      "cost_change": null,
+      "schedule_impact_days": null,
+      "requested_by": null,
+      "approved_by": null,
+      "status": null,
+      "original_contract_sum": null,
+      "contract_sum_before_change": null,
+      "new_contract_sum": null
+    }
+  ]
+}
